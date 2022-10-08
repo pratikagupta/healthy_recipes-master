@@ -6,7 +6,7 @@ The purpose of the project is just personal learning
 
 #### To-do list:
 * Add link formating
-* Improve the design of the recipe.
+* Improve the design of the recipe. 
 * Add responsive design.
 * Add "pring ingredient list" and other fancy.
 
